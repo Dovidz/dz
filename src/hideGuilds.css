@@ -9,12 +9,12 @@
 
 .wrapper-3NnKdC { /*Guild wrapper*/
     position: absolute;
-    left: 50%;
-    bottom: 0;
+    bottom: 50%;
+    left: 0;
     transform: translateX(-50%);
     z-index: 3;
-    width: 900px;
-    height: 12.5px;
+    width: 12.5px;
+    height: 900px;
     transition: 250ms ease-in;
 }
 .tree-2wKJdG { /*Guild subcontainer*/
@@ -23,8 +23,8 @@
     left: 0;
     transform-origin: top left;
     transform: rotate(270deg);
-    height: 900px;
-    width: 12.5px;
+    height: 12.5px;
+    width: 900px;
     transition: 250ms ease-in; 
 }
 .wrapper-3NnKdC:hover { /*Guild wrapper hover*/
