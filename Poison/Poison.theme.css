@@ -8,11 +8,11 @@
 * @version      1.0.1 
 */
 
-@import url('https://rmkx.github.io/src/avatarStyle.css'); /*Avatar's style mini-theme*/
-@import url('https://rmkx.github.io/src/hideServers.css'); /*Comment line if you don't want servers list to hide | This moves it to the default position*/
-@import url('https://rmkx.github.io/Poison/src/hideMembers.css'); /*Comment line if you don't want servers' members to hide*/
+@import url('https://dz.github.io/src/avatarStyle.css'); /*Avatar's style mini-theme*/
+@import url('https://dz.github.io/src/hideGuilds.css'); /*Comment line if you don't want servers list to hide | This moves it to the default position*/
+@import url('https://dz.github.io/Poison/src/hideMembers.css'); /*Comment line if you don't want servers' members to hide*/
 @import url('https://fonts.googleapis.com/css2?family=Fjalla+One&display=swap'); /*Import fonts*/
-@import url('https://rmkx.github.io/Poison/src/poison.css'); /*Main theme import*/
+@import url('https://dz.github.io/Poison/src/poison.css'); /*Main theme import*/
 
 :root {
     /*Background settings*/
